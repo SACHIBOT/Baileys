@@ -1,18 +1,33 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+node_modules
 
-# Other files and folders
-.settings/
+auth_info*.json
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+baileys_auth_info*
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+baileys_store*.json
+
+output.csv
+
+*/.DS_Store
+
+.DS_Store
+
+.env
+
+browser-messages.json
+
+decoded-ws.json
+
+lib
+
+docs
+
+browser-token.json
+
+Proxy
+
+messages*.json
+
+test.ts
+
+TestData
